@@ -1,11 +1,11 @@
 ### Hi there 👋 welcome to my world 
 
-Nice to meet you! I'm Ema python backend developer and systems analyst student, currently working at stellantis as a functional analyst and data center operator. My goal is to keep learning and improving in the programming world, I'm currently looking to gain experience, so I'm open to participate in projects, below you can find my contact references.
+Nice to meet you! I'm Ema, a Python backend developer and systems analyst student, currently working at stellantis as a functional analyst and data center operator. My goal is to keep learning and improving in the programming world, I'm currently looking to gain experience, so I'm open to participate in new projects. Below you can find my contact references.
 
 You can see my main projects here and if you go to repositories in the Python-projects folder you can find some of the concepts I have been practicing and learning.
 
 
-- 🔭 I’m currently working at <a href="https://www.stellantis.com/en">**Stellantis**</a> 
+- 🔭 I’m currently working at <a href="https://www.stellantis.com/en">**STELLANTIS**</a> 
 - 🌱 I’m currently learning Full stack Python  
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/emanuel-vera/" target="_blank">Emanuel Vera</a> on Linkedin
