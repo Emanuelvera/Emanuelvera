@@ -4,7 +4,6 @@ Nice to meet you! I'm Ema python backend developer and systems analyst student, 
 
 You can see my main projects here and if you go to repositories in the Python-projects folder you can find some of the concepts I have been practicing and learning.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working at <a href="https://www.stellantis.com/en">**Stellantis**</a> 
 - 🌱 I’m currently learning Full stack Python  
